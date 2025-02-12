@@ -24,7 +24,7 @@ Sales data is collected from eBay transactions, including product pricing, sales
 
 ## Usage
 Click this link to see the dashboard
-`https://public.tableau.com/app/profile/daniswara.eka.saputra/viz/DashboardAnalisisPenjualanParfumeMendieBay/Dashboard1?publish=yes`
+https://public.tableau.com/app/profile/daniswara.eka.saputra/viz/DashboardAnalisisPenjualanParfumeMendieBay/Dashboard1?publish=yes
 
 ## Disclaimer
 This project is for educational purposes only. Ensure compliance with data usage policies and privacy regulations.
