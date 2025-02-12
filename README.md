@@ -6,18 +6,18 @@ Data analysis and visualization project to evaluate sales performance for a perf
 This project focuses on data analysis and visualization to evaluate sales performance for perfume products on eBay. The goal is to create an interactive dashboard that helps monitor sales trends and derive actionable business insights.
 
 ## Features
--Sales Performance Analysis : Track revenue, sales volume, and profitability.
--Trend Analysis             : Identify patterns in customer purchases over time.
--Geographical Insights      : Visualize sales distribution across regions.
--Customer Behavior Analysis : Understand purchasing trends and preferences.
--Interactive Dashboard      : Use Tableau for dynamic data exploration.
+- Sales Performance Analysis : Track revenue, sales volume, and profitability.
+- Trend Analysis             : Identify patterns in customer purchases over time.
+- Geographical Insights      : Visualize sales distribution across regions.
+- Customer Behavior Analysis : Understand purchasing trends and preferences.
+- Interactive Dashboard      : Use Tableau for dynamic data exploration.
 
 ## Technologies & Tools
--Tableau: Data visualization and dashboard creation.
--Python: Data preprocessing and analysis.
--Pandas & NumPy: Data manipulation.
--Seaborn & Matplotlib: Statistical visualization.
--SciPy: Advanced statistical analysis.
+- Tableau: Data visualization and dashboard creation.
+- Python: Data preprocessing and analysis.
+- Pandas & NumPy: Data manipulation.
+- Seaborn & Matplotlib: Statistical visualization.
+- SciPy: Advanced statistical analysis.
 
 ## Data Source
 Sales data is collected from eBay transactions, including product pricing, sales volume, and customer demographics.
